@@ -2,6 +2,8 @@
 
 Interactive JavaScript learning platform with code editor.
 
+Test it out here at https://js-sensei-lite.vercel.app/!
+
 ## Getting Started
 
 First, install the dependencies:
