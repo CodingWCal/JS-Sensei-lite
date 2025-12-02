@@ -1,6 +1,6 @@
-# JS Sensei - Recovered Project
+# JS Sensei
 
-Interactive JavaScript learning platform with code editor.
+Lightweight Interactive JavaScript learning platform with code editor.
 
 Test it out here at https://js-sensei-lite.vercel.app/!
 
